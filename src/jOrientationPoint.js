@@ -1,5 +1,5 @@
 /**
- * @fileOverview Auto positioning of a HTML element for a smartfon.
+ * @fileOverview This Plugin is auto positioning of a HTML element for a smartfon.
  * Dependencies: jQuery 1.5.1 or later,  jQuery Mobile 1.0 alpha3 or later
  * @author <a href="mailto:emorins@gmail.com">Shotaro Emori</a>
  * @version 1.0.0
